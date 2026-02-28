@@ -6,7 +6,7 @@ I'm a B.Tech student at Silicon University specializing in Electronics and Commu
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="" target="_blank">
-    <img src="/" alt="Website">
+    <img src="https://img.shields.io/badge/-Website-4285F4?style=flat&logo=Google-Chrome&logoColor=white" alt="Website">
   </a>
   <a href="mailto:devrajmandal5650@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email">
